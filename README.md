@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-holbertonschool-zero_day
+This project is about learning about virtual machines, vagrants, ubuntu, and how to use them and also understand what they're all about.

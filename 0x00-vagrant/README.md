@@ -1,0 +1,1 @@
+uname prints out "Linux"
