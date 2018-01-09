@@ -1,0 +1,1 @@
+This project was about learning about what emacs is and the basic commands.
